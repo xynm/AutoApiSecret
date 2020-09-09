@@ -147,4 +147,4 @@ AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
   
   
 ### 注意 ###
-1.py中请求token地址'redirect_uri':'http://localhost:53682/'与之前的是否相同
+1.py中请求token地址'redirect_uri':'http://localhost:53682/'与之前的是否相同，有些是http://localhost或http://localhost/onedrive-login
